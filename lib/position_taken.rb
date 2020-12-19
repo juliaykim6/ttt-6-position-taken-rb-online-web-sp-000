@@ -3,6 +3,5 @@
 def position_taken (board, index)
   if board[index_number] == "   "
     puts "ok"
-  end 
+  end
   
-    
